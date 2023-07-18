@@ -1,8 +1,14 @@
 ## Content
 
 - Git:
-  - `<empty>`
+    - `<empty>`
 - Linux:
-  - `<empty>`
+    - `<empty>`
 - Patterns:
-  - [Builder](src/main/java/patterns/Builder/builder.md)
+    - Creational:
+        - [Builder](src/main/java/patterns/creational/Builder/builder.md)
+        - [Factory method](src/main/java/patterns/creational/FactoryMethod/factoryMethod.md)
+    - Structural:
+        - `<empty>`
+    - Behavioral:
+        - `<empty>`
